@@ -199,6 +199,7 @@ section.especialidades {
 
 section.especialidades .flex {
     gap: 60px;
+
 }
 
 .especialidades .especialidades-box {
@@ -207,6 +208,7 @@ section.especialidades .flex {
     border-radius: 20px;
     margin-top: 45px;
     transition: .2s;
+    
 }
 
 .especialidades .especialidades-box:hover {
